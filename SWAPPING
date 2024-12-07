@@ -25,6 +25,7 @@ d=a;
 a=b;
 b=c;
 c=d;
+
 printf("AFTER SWAPPING A, B AND C IS :%d, %d and %d",a,b,c);
 printf("\n");
 return 0;
