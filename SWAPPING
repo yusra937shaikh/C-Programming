@@ -1,0 +1,31 @@
+SWAPPING OF 2 VALUES
+#include<stdio.h>
+int main()
+{
+int a=10,b=20,c;
+printf("BEFORE SWAPPING A AND B IS :%d and %d\n",a,b);
+
+c=a;
+a=b;
+b=c;
+printf("AFTER SWAPPING A AND B IS :%d and %d",a,b);
+printf("\n");
+return 0;
+}
+
+
+SWAPPING OF 3 VALUES
+#include<stdio.h>
+int main()
+{
+int a=10,b=20,c=30,d;
+printf("BEFORE SWAPPING A, B AND C IS :%d, %d and %d\n",a,b,c);
+
+d=a;
+a=b;
+b=c;
+c=d;
+printf("AFTER SWAPPING A, B AND C IS :%d, %d and %d",a,b,c);
+printf("\n");
+return 0;
+}
