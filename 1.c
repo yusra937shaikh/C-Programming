@@ -1,4 +1,3 @@
-<p>ADDITION,SUBTRACTION,MULTIPLICATION,DIVISION OF TWO VALUES IN C</p>
 #include<stdio.h>
 int main()
 {
